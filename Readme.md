@@ -1,10 +1,10 @@
-Website Name: GOVGO - Quick and easy government access on the go.
+# Website Name: GOVGO - Quick and easy government access on the go.
 
-Project Overview:
+## Project Overview:
 
        My project aims to develop a user-friendly website that facilitates appointment scheduling between citizens and government officials. The platform will feature distinct interfaces for common users and government officials, ensuring tailored functionalities for each group.
 
-Key Components:
+## Key Components:
 
 Frontend Development:
 Civilians Interface:
